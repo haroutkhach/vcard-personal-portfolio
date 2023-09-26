@@ -9,7 +9,7 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+richard@example.comd 
 
 Phone
 +1 (213) 352-2795
